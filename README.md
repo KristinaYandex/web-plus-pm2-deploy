@@ -7,7 +7,7 @@
 - Node.js
 - Git
 - Nginx для организации раздачи статических файлов и перенаправления запросов
-- 
+  
 # Публикация проекта: 
 - IP адрес 158.160.140.15
 - Frontend https://mesto.ushakova.nomoredomainsmonster.ru/
