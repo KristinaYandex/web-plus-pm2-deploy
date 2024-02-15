@@ -6,8 +6,9 @@
 - PM2 для запуска приложения на Node.js и автоматизации рутины по деплою
 - Node.js
 - Git
-- Nginx для организации раздачи статических файлов и перенаправления запросов 
-
+- Nginx для организации раздачи статических файлов и перенаправления запросов
+- 
+# Публикация проекта: 
 - IP адрес 158.160.140.15
 - Frontend https://mesto.ushakova.nomoredomainsmonster.ru/
 - Backend https://api.mesto.ushakova.nomoredomainsmonster.ru/
